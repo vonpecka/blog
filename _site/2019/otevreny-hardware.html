@@ -1,0 +1,282 @@
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+	
+	
+	
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+	<meta name="HandheldFriendly" content="true"/>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Otevřený hardware jako součást kybernetické bezpečnosti | Blog Mikuláše Peksy</title>
+	<meta name="author" content="Mikuláš Peksa">
+	<meta name="robots" content="index,follow" />
+	<meta name="description" content="Skandál okolo čínských společností Huawei a ZTE poukázal na další citlivou oblast kybernetické bezpečnosti, přičemž příčinou je využívání uzavřených technologií. Obavy o bezpečnost státních informačních systémů jsou zcela určitě na místě. Vyhazováním telefonů Huawei a ZTE a zákazem jejich používání se ale nic nevyřeší, problé...">
+	<meta name="keywords" content="Mikuláš Peksa, bezpečnost, egovernment" />
+	<meta property="og:title"         content="Otevřený hardware jako součást kybernetické bezpečnosti | Blog Mikuláše Peksy" />
+	<meta property="og:description"   content="Skandál okolo čínských společností Huawei a ZTE poukázal na další citlivou oblast kybernetické bezpečnosti, přičemž příčinou je využívání uzavřených technologií. Obavy o bezpečnost státních informačních systémů jsou zcela určitě na místě. Vyhazováním telefonů Huawei a ZTE a zákazem jejich používání se ale nic nevyřeší, problé..." />
+	<meta property="og:image"         content="http://localhost:4000/otevreny_hardware.jpg" />
+	<meta property="og:type"          content="website" />
+	<meta property="og:url"           content="http://localhost:4000/2019/otevreny-hardware.html" />
+	<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/assets/favicon/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/favicon/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/favicon/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/favicon/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="/assets/favicon/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/assets/favicon/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/assets/favicon/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/assets/favicon/apple-touch-icon-152x152.png">
+<link rel="icon" type="image/png" href="/assets/favicon/favicon-196x196.png" sizes="196x196">
+<link rel="icon" type="image/png" href="/assets/favicon/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/assets/favicon/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="/assets/favicon/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/assets/favicon/favicon-128.png" sizes="128x128">
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.css" />
+<link rel="stylesheet" type="text/css" href="/assets/css/app.css" />
+<link rel="stylesheet" type="text/css" href="/assets/font-awesome-4.7.0/css/font-awesome.min.css" />
+<link rel="alternate" type="application/atom+xml" href="/feed.xml" />
+
+	
+</head>
+<body>
+	<nav class="sitenav">
+  <div class="row">
+    <div class="columns small-12">
+      <ul class="sitenav-items">
+        <li class="sitenav-items__item sitenav-items__item--main">
+          <div class="sitenav-profile">
+              <div class="sitenav-profile__brand">
+                <a href="/"><img src="/assets/img/brand/logo_napis_white.svg" alt="Logo Piráti" /></a>
+              </div>
+              <div class="sitenav-profile__author">
+                <a class="sitenav-profile__author-name" href="/">Mikuláš Peksa</a>
+                <div class="sitenav-social">
+                  <a class="sitenav-social__link" href="https://www.facebook.com/mikulas.peksa"><i class="fi-social-facebook icon"></i></a>
+                  <a class="sitenav-social__link" href="https://twitter.com/vonpecka"><i class="fi-social-twitter icon"></i></a>
+                  <a class="sitenav-social__link" href="https://github.com/FIXME"><i class="fi-social-github icon"></i></a>
+                  <a class="sitenav-social__link" href="/feed.xml" alt="ATOM/RSS"><i class="fi-rss icon" alt="ATOM/RSS"></i></a>
+                  <a class="sitenav-social__link" href="mailto:peksam@psp.cz"><i class="fi-mail icon"></i></a>
+                </div>
+              </div>
+          </div>
+        </li>
+        <li class="sitenav-items__item">
+          <ul class="sitenav-links">
+            <li class="sitenav-links__link"><a href="/bio/">Bio</a></li>
+            <li class="sitenav-links__link"><a  href="/transparentnost/">Transparentnost</a></li>
+            <li class="sitenav-links__link"><a  href="/uspechy/">Úspěchy</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+
+<article class="page post" itemtype="https://schema.org/Article" itemscope>
+  <div class="row">
+    <div class="small-12 columns">
+      <div itemprop="author" itemtype="http://schema.org/Person" itemscope>
+          <span itemprop="name" class="post__author">Ondřej Profant</span>
+      </div>
+      <h1 itemprop="headline" class="page__headline">Otevřený hardware jako součást kybernetické bezpečnosti</h1>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="small-12 medium-8 columns">
+
+      
+      <div class="post__thumbnail">
+        <img class="thumbnail" src="/assets/img/posts/otevreny_hardware.jpg">
+        <meta itemprop="image" content="/assets/img/posts/otevreny_hardware.jpg">
+      </div>
+      
+
+      <p class="post__excerpt content-block">
+          <meta itemprop="datePublished" content="2019-01-01T17:00:00+01:00" />
+          <i>01. 01. 2019</i> &mdash; <span itemprop="description">Skandál okolo čínských společností Huawei a ZTE poukázal na další citlivou oblast kybernetické bezpečnosti, přičemž příčinou je využívání uzavřených technologií. Obavy o bezpečnost státních informačních systémů jsou zcela určitě na místě. Vyhazováním telefonů Huawei a ZTE a zákazem jejich používání se ale nic nevyřeší, problém je jako vždy daleko hlubší a složitější.
+
+</span>
+      </p>
+
+      <div id="content" class="post__content content-block">
+        <!--more-->
+
+<p>Národní úřad pro kybernetickou a informační bezpečnost (NÚKIB) vydal 17. 12. 2018 varování před používáním technických a programových prostředků společností Huawei Technologies a ZTE Corporation. Toto varování vyvolalo značný mediální ohlas, v určitých politických kruzích by se dalo téměř až hovořit o panice (zbrklé chování premiéra v souvislosti s touto kauzou jsem popsal již v předchozím <a href="https://www.profant.eu/2018/nahy-premier.html">článku</a>). Pro odborníky v oblasti informačních technologií se ale nejedná o žádnou novinku. Rizika spojená s proprietárním hardware využívajícím uzavřené technologie jsou odborné komunitě známy již desítky let.</p>
+
+<p>Je samozřejmě dobře, že se o těchto problémech začíná ve veřejném prostoru více uvažovat a diskutovat. Koneckonců v případě informační infrastruktury státu se skutečně jedná o záležitosti národní a potažmo i unijní bezpečnosti, které mohou mít v krizových scénářích fatální dopady pro naši republiku a naše spojence. Stačí si jen například představit, že backdoor v hardware využívaném pro zabezpečování chodu jaderné elektrárny způsobí v kritický moment selhání. A nemusí jít o katastrofickou vizi zakončenou výbuchem celého areálu elektrárny, obyčejná sabotáž s následným výpadkem a nucenou odstávkou produkce elektřiny může sama o sobě napáchat až miliardové škody.</p>
+
+<p>Není zároveň možné uvažovat v přísně geopolitických intencích, čili na jedné straně se vyhýbat čínským výrobkům, ale zároveň upřednostňovat ty americké. Základní principy kontroly hardware by měly být mnohem více systémové, aby bylo možné jakékoliv pochyby o používaných zařízeních snadno rozptýlit, nebo naopak potvrdit a vyvodit patřičné důsledky.</p>
+
+<h3 id="správná-výrobní-praxe-pro-hardware">Správná výrobní praxe pro hardware</h3>
+
+<p>Rozumným přístupem by bylo zavedení jasných a striktních principů při kontrole procesů výroby produktu. Podobně jako se například ve farmaceutickém průmyslu nebo potravinářství uplatňuje takzvaná správná výrobní praxe.</p>
+
+<p>Hardwarové produkty by tak například musely mít svůj “rodný list”, který by spotřebitele informoval o veškerých náležitostech, které by regulátor potřeboval. Výrobci a dodavatelé rizikových součástek pro kritickou infrastrukturu by museli mít certifikovaný provoz, na který by dohlížel státní kontrolní orgán. Jistě by se dalo vymyslet dostatek dalších kontrolních a ochranných opatření.</p>
+
+<p>Tato forma regulace a kontroly výrobků se může na první pohled zdát jako poněkud přehnaná. Je však nutné si uvědomit, že stát nemůže pro svůj kritický provoz pořizovat potenciálně nebezpečný hardware. Stejně tak státní orgány chrání trh před jinými závadnými výrobky, ať už to jsou vadné elektrospotřebiče, nebezpečné hračky nebo jedovaté léky. A v případě hardware, který je součástí širší sítě kritických informačních systémů státu, je zapotřebí postupovat se srovnatelnou opatrností.</p>
+
+<h3 id="otevřený-hardware-jako-bezpečné-řešení">Otevřený hardware jako bezpečné řešení</h3>
+
+<p class="article-note"><strong>Co je otevřený hardware?</strong> <a href="https://en.wikipedia.org/wiki/Open-source_hardware">Otevřený hardware</a> nebo open source hardware jsou technické prostředky založené na otevřeném designu. Koncový spotřebitel tak může důkladně prozkoumat schémata daného výrobku a případně je upravit pro své potřeby. Svobodná licence otevřeného hardware umožňuje snadné a rychlé sdílení technologií. Vzhledem k rozmachu 3D tisku se pojem otevřený hardware nevztahuje pouze k elektronice, ale například i k předmětům běžné potřeby, které si může uživatel na základě designu uvolněného pod svobodnou licencí stáhnout a vytisknout. Velkou výhodou otevřeného hardware je přístup k jeho kompletní dokumentaci. To velmi usnadňuje práci s výrobkem i jeho případný bezpečnostní audit.</p>
+
+<p>Dobrým řešením by také mohlo být využívání otevřeného hardware od certifikovaného regionálního výrobce. Do otevřeného hardware by pak mohlo investovat více států, případně by se z toho mohl stát společný projekt na úrovni EU či NATO. Tím by se jednak blíže propojoval průmysl s vědou, aniž by při tom docházelo ke zvýhodňování konkrétních výrobců a s tím spojené korupci, ale zároveň by se jednalo o formu investice do společné infrastruktury kybernetické obrany.</p>
+
+<p>Otevřený hardware aktuálně využívá například Facebook při výstavbě svých datových center. Své zkušenosti převedl na nadaci <a href="https://www.opencompute.org">Open Compute Project (OCP)</a><sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>, která certifikuje otevřený hardware. Dávno se tedy nejedná (stejně jako v případě otevřeného software) o “zábavu v garáži”, nýbrž o plnohodnotnou funkční alternativu, do které investují nadnárodní korporace. Státy by neměly zůstat stranou, jinak budou opět na korporacích zcela závislé.</p>
+
+<p>Širší využívání otevřeného hardware v rámci informačních infrastruktur členských států EU by jednotlivým státům mohlo pomoci získat větší kontrolu a tím posílit jejich bezpečnost. Zároveň se tak může významně podpořit pokrok v oblasti vývoje nového hardware, který by byl vyroben čistě v zemích EU. Příslušnými legislativními opatřeními by se pak dalo velmi snadno předejít podobným problémům, jako jsou nyní se společnostmi Huawei a ZTE. Taková strategie ale může fungovat pouze za předpokladu, že se na ní členské státy EU shodnou.</p>
+
+<hr />
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>OCP není jediná obdobná organizce. Za zmínku jistě stojí i <a href="https://www.ohwr.org">Open Hardware Repository</a> od CERNu. <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+      </div>
+
+      
+        <div class="post__comments">
+          
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://FXIME.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+
+
+        </div>
+      
+    </div>
+
+    <div class="medium-4 columns show-for-medium">
+      <aside class="rbox">
+  
+    <a class="twitter-timeline" href="https://twitter.com/vonpecka" data-height="1060">Krátce od @vonpecka</a>
+  
+
+  
+</aside>
+
+    </div>
+  </div>
+</article>
+
+
+
+<footer class="footer">
+  <div class="row footer__main">
+    <div class="small-12 middle-6 medium-3 columns">
+      <a href="/"><img class="footer__brand" src="/assets/img/brand/logo_napis_white.svg" alt="Piráti logo" /></a>
+      <h3 class="t-h5-sub">Mikuláš Peksa</h3>
+      <ul class="no-bullet">
+        <li>poslanec PSP ČR</li>
+        <li>místopředseda <a href="https://praha.pirati.cz">Pirátů USK</a></li>
+      </ul>
+    </div>
+    <div class="small-12 middle-6 medium-3 columns">
+      <h3 class="footer-nav__headline">Sněmovna</h3>
+      <ul class="no-bullet">
+        <li>Malostranské náměstí 7/19</li>
+        <li>Praha 1 - Malá strana</li>
+        <li>721030120 <small>(kancelář)</small></li>
+        <li><a href="mailto:peksam@psp.cz">peksam@psp.cz</a></li>
+      </ul>
+    </div>
+    <div class="small-12 middle-6 medium-3 columns">
+      <h3 class="footer-nav__headline">Poslanecká kancelář</h3>
+      <ul class="no-bullet">
+	<li>Pařížšká 1290/5</li>
+        <li>Ustí nad Labem</li>
+        <li>40001</li>
+      </ul>
+    </div>
+    <div class="small-12 middle-6 medium-3 columns">
+      <h3 class="footer-nav__headline">Dále</h3>
+      <ul class="no-bullet">
+        <li><a href="/medialni-vystupy">Mediální výstupy</a></li>
+        <li><a href="/leg">eGov legislativa</a></li>
+        <li><a href="/verejne-zakazky">Veřejné zakázky</a></li>
+        <li><a href="/agenda">Aktuální agenda</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="footer__copy">
+    <div class="row">
+      <div class="small-12 columns footer__copy-line">
+        <a rel="license" href="http://creativecommons.org/licenses/by/3.0/cz/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/cz/88x31.png" /></a> <small>Toto dílo podléhá licenci <a rel="license" href="http://creativecommons.org/licenses/by/3.0/cz/">Creative Commons Uveďte původ 3.0 Česká republika License</a>.</small>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+
+	
+<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.3.1/js/foundation.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js"></script>
+<script>
+  $(document).foundation();
+
+  /* Twitter */
+  window.twttr = (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0],
+      t = window.twttr || {};
+    if (d.getElementById(id)) return t;
+    js = d.createElement(s);
+    js.id = id;
+    js.src = "https://platform.twitter.com/widgets.js";
+    fjs.parentNode.insertBefore(js, fjs);
+    t._e = [];
+    t.ready = function(f) {
+      t._e.push(f);
+    };
+    return t;
+  }(document, "script", "twitter-wjs"));
+
+  
+</script>
+
+<!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//piwik.pirati.cz/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', '7']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="//piwik.pirati.cz/piwik.php?idsite=7&rec=1" style="border:0;" alt=" " /></p></noscript>
+<!-- End Piwik Code -->
+
+	
+	
+</body>
+</html>
