@@ -22,8 +22,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.mikulas-peksa.eu" # the base hostname & protocol for your site, e.g. http://example.com
 keywords: Mikuláš Peksa
 twitter_username: vonpecka
-github_username:  FIXME
-facebook_username: mikulas.peksa
+facebook_username: peksamikulas/
 cover_image: /assets/img/banner.jpg
 img: /assets/img/banner.jpg 
 disqus: FXIME
