@@ -1,4 +1,4 @@
-# profant.eu
+# mikulas-peksa.eu
 
 [![Build Status](https://api.travis-ci.org/Kedrigern/profant.eu.svg)](https://travis-ci.org/Kedrigern/profant.eu)
 
