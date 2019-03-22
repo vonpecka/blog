@@ -18,16 +18,6 @@ permalink: "transparentnost/"
 	</p>
   </div>
 
-  <div class="small-12 medium-6 columns">
-    <h3>Činnost</h3>
-    <p>
-      <ul>
-        <li><a href="https://mikulas-peksa.eu/medialni-vystupy/">Mediální výstupy</a> z webů Pirátů</li>
-        <li><a href="https://evidence.pirati.cz/author/28/">Evidence lobbistických kontaktů</a> - s kým se při své politické činnosti scházím já a další představitelé strany</li>
-      </ul>
-    </p>
-  </div>
-
   
   <div class="small-12 medium-6 columns">
     <h3>Majetkové přiznání</h3>
