@@ -10,9 +10,6 @@ permalink: "transparentnost/"
 	<p>
       <ul>
         <li><a href="http://www.psp.cz/sqw/hlasovani.sqw?id=6488">Poslanecké sněmovně Parlamentu</a>
-		<ul>
-			<li>zdůvodnění klíčových hlasování v <a href="https://www.mikulas-peksa.eu/kategorie#report">reportech</a></li>
-		</ul>
 </li>
       </ul>
 	</p>
