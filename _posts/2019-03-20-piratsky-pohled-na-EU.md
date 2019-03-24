@@ -1,11 +1,10 @@
 ---
 layout:       post
 title:        "Pirátský pohled na Evropskou unii"
-date:         2018-03-28 10:00:00 +0100
+date:         2019-03-20 10:00:00 +0100
 categories:   Piráti
-comments:     true
 img:          ship-to-EU.jpg
-author:       Mikuláš Peksa
+language:     czech
 ---
 Piráti jsou se svým neobvyklým pohledem na EU a její struktury těžko zařaditelní do běžného dělení na proevropské a protievropské směry. Na jednu stranu jsme označováni za "eurohujery" a "eurosvazáky", na druhé straně jsme kritizováni za nedostatečně prozápadní rétoriku. Ani jedno z těchto nejčastějších zhodnocení pirátské evropské politiky však neodpovídá realitě, pokusím se proto ve svém článku pirátský pohled na Evropskou unii trochu více přiblížit a vysvětlit.
 

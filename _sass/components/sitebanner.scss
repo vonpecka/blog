@@ -6,12 +6,12 @@
 
 .sitebanner__cover {
   display: flex;
-  justify-content: center;
+  justify-content: left;
   background-image: url('/assets/img/design/cover-piconly.jpg');
   background-repeat: no-repeat;
   background-position: right;
   background-size: contain;
-  height: 250px;
+  height: 200px;
   padding-right: 40%;
 }
 

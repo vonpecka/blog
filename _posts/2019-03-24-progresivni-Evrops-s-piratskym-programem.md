@@ -1,11 +1,10 @@
 ---
 layout:       post
 title:        "Progresivní Evropa s pirátským programem"
-date:         2018-03-30 10:00:00 +0100
+date:         2019-03-24 10:00:00 +0100
 categories:   soukromí "umělá inteligence"
-comments:     true
 img:          banner-sirsi.jpg
-author:       Mikuláš Peksa
+language:     czech
 ---
 
 V květnových volbách do Evropského parlamentu kandidují Piráti se společným programem, který připravovali ve spolupráci s dvanácti dalšími Pirátskými stranami z členských států EU. Výsledný program pojímá EU jako společný politický a ekonomický prostor, na jehož prosperitě a stabilitě je potřeba spolupracovat. Evropští Piráti tak ve svém programu pozitivně přistupují k výzvám, kterým současná Evropa čelí, a nabízí nové progresivní a liberální směřování Unie.

@@ -1,11 +1,10 @@
 ---
 layout:       post
 title:        "Čínský systém sociálního kreditu jako dystopická vize v praxi"
-date:         2018-03-26 10:00:00 +0100
+date:         2019-03-22 10:00:00 +0100
 categories:   soukromí "umělá inteligence"
-comments:     true
 img:          ruda-kamera.jpg
-author:       Mikuláš Peksa
+language:     czech
 ---
 
 Čína plánuje do roku 2020 zavést takzvaný systému sociálního kreditu. Tento systém je vskutku orwellovským nástrojem důkladného státního dohledu, který poskytne čínské vládě ještě pevnější kontrolu nad čínskými občany, než jakou doposud disponovala.
