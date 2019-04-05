@@ -15,7 +15,7 @@
 	<meta name="keywords" content="{{ keywords }}" />
 	<meta property="og:title"         content="{{ title }}" />
 	<meta property="og:description"   content="{{ description }}" />
-	<meta property="og:image"         content="{% if page.img %}{{ page.img | absolute_url }}{% else%}{{ site.cover_image | baseurl }}{% endif %}" />
+	<meta property="og:image"         content="{% if page.img %}{{ page.img | prepend: '/assets/img/posts/' | absolute_url }}{% else%}{{ site.cover_image | baseurl }}{% endif %}" />
 	<meta property="og:type"          content="website" />
 	<meta property="og:url"           content="{{ page.url | absolute_url }}" />
 	{% include link.html %}
