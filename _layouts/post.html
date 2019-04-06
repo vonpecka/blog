@@ -14,7 +14,7 @@ layout: default
 
       {% if page.img %}
       <div class="post__thumbnail">
-        <img class="thumbnail" src="{{ page.img | prepend: 'assets/img/posts/' | relative_url }}">
+        <img class="thumbnail" src="{{ page.img | prepend: 'assets/img/posts/' | relative_url }}" alt="{{page.title}}">
         <meta itemprop="image" content="{{ page.img | prepend: 'assets/img/posts/' | relative_url }}">
       </div>
       {% endif %}
