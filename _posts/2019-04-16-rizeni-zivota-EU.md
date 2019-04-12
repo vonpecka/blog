@@ -1,9 +1,9 @@
 ---
 layout:       post
 title:        "Řídí EU naše životy, nebo my řídíme život EU?"
-date:         2019-04-04 10:00:00 +0100
+date:         2019-04-16 10:00:00 +0100
 categories:   Piráti
-img:          ship-to-EU.jpg
+img:          parlament-ulicka.jpg
 language:     czech
 ---
 I když řada lidí bezmyšlenkovitě vypálí „ano!“ nebo „ne!“, odpověď na tuhle otázku ve skutečnosti není tak jednoduchá. Pamatuji se, jak mne překvapilo, když jsem zjistil, že v Česku platí evropské zákony. A co víc, pokud je český zákon v rozporu s evropským, platí ten evropský. Do té doby mne učili, že zákony schvaluje český parlament. Nemohl jsem pochopit, že strpíme takové vměšování do českých záležitostí zvenčí.
@@ -20,5 +20,5 @@ Není to jediný způsob, jak může členský stát ovlivnit evropské zákony.
 
 Problémem je, že naprostá většina lidí o tomto spolurozhodování neví. V českém parlamentu se zákony přicházejícími z Komise zabývají obvykle pouze členové Výboru pro evropské záležitosti. Stává se, že poslanec evropského výboru nějaký zákon podpoří a o pár měsíců nebo let později jeho kolegové ze stejné strany hlasitě kritizují, co že to ta Unie zase vymyslela. Dotyčný, který předtím souhlasil, se tím z pochopitelných důvodů příliš nechlubí. Stane se, že ministr nedorazí na jednání Rady nebo neumí anglicky natolik, aby dokázal svým kolegům z ostatních zemí vysvětlit důvody, proč Česko s nějakým návrhem nesouhlasí.
 
-Pravda je tedy někde mezi. Evropská Unie životy Čechů ovlivňuje, zároveň Češi mohou ovlivňovat fungování Unie. Jen málokdo ví jak. Evropské volby jsou jednou z nejlepších příležitostí, jak se do rozhodování zapojit. Má to smysl – od onoho pověstného „o nás bez nás“ nás dělí právě těch pár kroků k volební urně.
+Pravda je tedy někde mezi. Evropská Unie životy Čechů ovlivňuje, zároveň Češi mohou ovlivňovat fungování Unie. Jen málokdo ví jak. **Evropské volby jsou jednou z nejlepších příležitostí, jak se do rozhodování zapojit. Má to smysl – od onoho pověstného „o nás bez nás“ nás dělí právě těch pár kroků k volební urně.**
 
