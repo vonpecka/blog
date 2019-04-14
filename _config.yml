@@ -46,7 +46,7 @@ exclude:
   - package.json
   - package-lock.json
 
-future: true
+future: false
 
 sass:
   style: compressed
