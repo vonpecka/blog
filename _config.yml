@@ -47,7 +47,6 @@ exclude:
   - package-lock.json
 
 future: false
-show_drafts: true
 
 sass:
   style: compressed
