@@ -22,3 +22,5 @@ Problémem je, že naprostá většina lidí o tomto spolurozhodování neví. V
 
 Pravda je tedy někde mezi. Evropská Unie životy Čechů ovlivňuje, zároveň Češi mohou ovlivňovat fungování Unie. Jen málokdo ví jak. **Evropské volby jsou jednou z nejlepších příležitostí, jak se do rozhodování zapojit. Má to smysl – od onoho pověstného „o nás bez nás“ nás dělí právě těch pár kroků k volební urně.**
 
+*Článek byl vydán v tištěné verzi Pirátských listů v dubnu 2019.*
+

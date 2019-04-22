@@ -15,13 +15,14 @@ Přesto upload-filtr platformy Scribd zablokoval 32 kopií dokumentu s odkazem n
 
 To je pozoruhodné ze dvou důvodů.
 Za prvé, **nikdo nemá autorská práva** k Muellerově zprávě.
-Dokumenty připravené a publikované vládou USA jsou volnými díly.
+Zpráva shrnuje výsledky zvláštního vyšetřovatele Robert Muellera, který prověřoval, zda-li prezident Trump spolupracoval s Rusy a mařil práci FBI.
+Jako všechny dokumenty připravené a publikované vládou USA je zpráva volným dílem.
 Každý je může kopírovat a publikovat tam, kde a jak často chce.
 
 Za druhé, a to přidává tomuto případu obrovský význam, Evropská unie minulý týden konečně schválila reformu copyrightu.
 Stovky tisíc lidí v celé Evropě včetně České republiky protestovaly proti této cenzorní směrnici.
 Hlavní příčinou byl § 13 (§ 17 v konečném znění legislativy).
-Ten zavádí povinnost online-platforem používat takovéto on-line filtry.
+Ten zavádí povinnost online-platforem používat takovéto upload-filtry.
 
 Proces ručního dovolání nicméně funguje spolehlivěji než automatická blokace: 17 minut poté, co [on-line portál Quartz podal dovolání](https://qz.com/1599975/scribd-taking-down-the-mueller-report-is-what-eu-article-13-looks-like/), Scribd obnovil přístup.
 Mluvčí platformy Scribd uvedl, že celkem 32 kopií dokumentu bylo neúmyslně zablokováno a později vydáno.
