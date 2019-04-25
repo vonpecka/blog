@@ -2,6 +2,8 @@
 
 [![Build Status](https://api.travis-ci.org/Kedrigern/profant.eu.svg)](https://travis-ci.org/Kedrigern/profant.eu)
 
+Důležité: Příspěvky jejichž zveřejnění je naplánováno do budoucnosti se při současné konfiguraci Github pages nezobrazí, takže je nutno vyvolat ručně build repozitáře.
+
 ## Lokalní spuštění
 
 ```
