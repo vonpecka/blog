@@ -1,9 +1,9 @@
 ---
 layout:       post
 title:        "Proč jsme díky EU svobodnější"
-date:         2019-05-29 10:00:00 +0100
+date:         2019-05-30 10:00:00 +0100
 categories:   Piráti, EU
-img:          eu-vlajky-jpg
+img:          eu-vlajky.jpg
 language:     czech
 ---
 
