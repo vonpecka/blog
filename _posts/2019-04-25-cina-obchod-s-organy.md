@@ -2,7 +2,6 @@
 layout:       post
 title:        "Hrůzný byznys s lidskými orgány v Číně"
 date:         2019-04-25 10:00:00 +0100
-categories:   lidská práva, mezinárodní vztahy
 img:          organ-harvesting.jpg
 language:     czech
 ---

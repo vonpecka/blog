@@ -2,7 +2,6 @@
 layout:       post
 title:        "Harte Praktiken der Zeitungsverleger"
 date:         2019-04-03 10:00:00 +0100
-categories:   copyright
 img:          vydavatele.png
 language:     german
 ---

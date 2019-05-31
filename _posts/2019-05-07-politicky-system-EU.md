@@ -2,7 +2,6 @@
 layout:       post
 title:        "Politický systém EU je velmi komplexní, svou složitostí snadno překonává i systémy federativních států. Proč? "
 date:         2019-05-07 10:00:00 +0100
-categories:   Piráti
 img:          europarlament.jpg
 language:     czech
 ---

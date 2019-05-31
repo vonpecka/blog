@@ -2,7 +2,6 @@
 layout:       post
 title:        "Jak můžeme být v EU bohatší?"
 date:         2019-05-31 10:00:00 +0100
-categories:   Piráti, EU
 img:          bohatstvi.jpg
 language:     czech
 ---

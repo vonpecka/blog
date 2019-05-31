@@ -2,7 +2,6 @@
 layout:       post
 title:        "Upload-filtry smazaly desítky kopií Muellerovy zprávy"
 date:         2019-04-22 08:00:00 +0100
-categories:   copyright Trump cenzura
 img:          muellerova-zprava.jpg
 language:     czech
 ---

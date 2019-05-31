@@ -2,7 +2,6 @@
 layout:       post
 title:        "Progresivní Evropa s pirátským programem"
 date:         2019-03-24 10:00:00 +0100
-categories:   soukromí "umělá inteligence"
 img:          banner-sirsi.jpg
 language:     czech
 ---
