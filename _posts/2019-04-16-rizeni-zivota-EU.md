@@ -2,7 +2,6 @@
 layout:       post
 title:        "Řídí EU naše životy, nebo my řídíme život EU?"
 date:         2019-04-16 10:00:00 +0100
-categories:   Piráti
 img:          parlament-ulicka.jpg
 language:     czech
 ---

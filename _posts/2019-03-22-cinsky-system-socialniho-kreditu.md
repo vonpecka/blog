@@ -2,7 +2,6 @@
 layout:       post
 title:        "Čínský systém sociálního kreditu jako dystopická vize v praxi"
 date:         2019-03-22 10:00:00 +0100
-categories:   soukromí "umělá inteligence"
 img:          ruda-kamera.jpg
 language:     czech
 ---

@@ -2,7 +2,6 @@
 layout:       post
 title:        "15 let v EU: Jedna krize střídá druhou, reformy jsou nutností"
 date:         2019-05-1 10:00:00 +0100
-categories:   Piráti
 img:          vlajky-CR-EU.jpg
 language:     czech
 ---

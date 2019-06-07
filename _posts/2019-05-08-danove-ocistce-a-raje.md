@@ -2,7 +2,6 @@
 layout:       post
 title:        "Daňové očistce živnostníků, daňové ráje korporací"
 date:         2019-05-08 08:00:00 +0100
-categories:   Piráti
 img:          tropicky-raj.jpg
 language:     czech
 ---

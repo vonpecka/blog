@@ -2,7 +2,6 @@
 layout:       post
 title:        "První zasedání frakce Greens/Evropská svobodná aliance"
 date:         2019-05-29 08:00:00 +0100
-categories:   Piráti Zelení
 img:          pirates-greens.jpg
 language:     czech
 ---

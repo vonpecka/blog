@@ -2,7 +2,6 @@
 layout:       post
 title:        "Pirátský pohled na Evropskou unii"
 date:         2019-03-20 10:00:00 +0100
-categories:   Piráti
 img:          ship-to-EU.jpg
 language:     czech
 ---

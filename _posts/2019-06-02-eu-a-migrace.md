@@ -2,7 +2,6 @@
 layout:       post
 title:        "Migrace – dobrý sluha, zlý pán"
 date:         2019-06-02 10:00:00 +0100
-categories:   Piráti, EU
 img:          migrace.jpg
 language:     czech
 ---

@@ -2,7 +2,6 @@
 layout:       post
 title:        "Příznak zahnívání politického systému: Brexit"
 date:         2019-04-12 10:00:00 +0100
-categories:   Brexit
 img:          brexit.jpg
 language:     czech
 ---
