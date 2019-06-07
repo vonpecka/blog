@@ -38,6 +38,8 @@ Myslím, že jeho nasazení významným způsobem zahýbe všemi odhady ziskovos
 Mluví-li tedy představitelé radnice o prodeji nemocnice, rád bych věděl, zda-li by podobně uvažovali, kdyby se jednalo o jejich soukromý majetek.
 **Bylo by hloupé nemocnici prodat a dívat se, jak její hodnota v rukou nového majitele samovolně roste díky změně státní zdravotnické politiky.**
 
+*Tento text byl [zveřejněn](https://litomericko.pirati.cz/Komentar-Mikulase-Peksy-Jak-politika-ministerstva-hybe-akciemi.html) na webu MS Piráti Litoměřicko.*
+
 #### Zdroje
 
 [DRG RESTART](https://drg.uzis.cz/)
@@ -49,4 +51,6 @@ Mluví-li tedy představitelé radnice o prodeji nemocnice, rád bych věděl, z
 [Znalecký posudek: Stanovení spravedlivé hodnoty („fair value“) obchodního závodu příspěvkové organizace Městská nemocnice v Litoměřicích.](/assets/pdf/znalecky-posudek-nemocnice.pdf)
 
 [Rozhovor s ředitelem Ústavu zdravotnických informací a statistiky](https://www.mzcr.cz/dokumenty/vsichni-budou-z-drg-prekvapenirika-reditel-uzis-ladislav-dusek_17152_1.html)
+
+
 
