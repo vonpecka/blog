@@ -30,3 +30,5 @@ Získat orgán v takové zemi pak vyžaduje speciální povolení v okrajových 
 okud se z takového státu vrátíte jen tak s orgánem, můžete být trestán i bez toho, aby česká policie musela zpovídat správce čínských nebo jiných koncentračních táborů.
 
 Chtěl bych obzvlášť poděkovat Markovi Hilšeri, Olze Richterové, Františkovi Kopřivovi, Davidovi Františekovi Wagnerovi, Martinovi Archalousovi, Matoušovi Vančovi a všem dalším, kteří se na přípravě zákona podíleli.
+
+[Návrh zákona na stránkách Poslanecké sněmovny](http://www.psp.cz/sqw/historie.sqw?o=8&T=498)
