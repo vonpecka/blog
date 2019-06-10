@@ -6,7 +6,7 @@ categories:   Piráti Zelení
 img:          slozeniEP-190608.png
 language:     czech
 ---
-Ve středu večer prošla Evropou zpráva, že představitelé 4 proevropských skupin se dohodli na vytvoření společného vize pro nadcházející zákonodárné období. To je základ pro vytvoření stabilní většiny pro práci budoucí Komise. Piráti se do procesu budou zapojovat.
+Ve středu večer prošla Evropou zpráva, že představitelé 4 proevropských skupin se dohodli na vytvoření společné vize pro nadcházející zákonodárné období. To je základ pro vytvoření stabilní většiny pro práci budoucí Komise. Piráti se do procesu zapojí.
 
 <!--more-->
 
