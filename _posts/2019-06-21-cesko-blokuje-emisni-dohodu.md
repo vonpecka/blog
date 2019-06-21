@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        "České veto je ránou do zad evropského boje proti změnám klimatu"
+title:        "České veto je ranou do zad evropského boje proti změnám klimatu"
 date:         2019-06-21 07:00:00 +0100
 img:          babis-lovochemie.jpg
 language:     czech
