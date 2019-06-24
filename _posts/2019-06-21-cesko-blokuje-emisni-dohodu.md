@@ -2,7 +2,7 @@
 layout:       post
 title:        "České veto je ranou do zad evropského boje proti změnám klimatu"
 date:         2019-06-21 07:00:00 +0100
-img:          babis-lovochemie.jpg
+img:          demonstrace-Babis.jpg
 language:     czech
 ---
 V noci ze čtvrtka na pátek zablokoval český premiér spolu s maďarským a polským dohodu Evropské rady směřující k omezení emisí oxidu uhličitého. Tato dohoda je přitom nezbytným předpokladem, má-li být Evropská Unie schopna naplnit své závazky v boji proti postupující globální klimatické změně. 
