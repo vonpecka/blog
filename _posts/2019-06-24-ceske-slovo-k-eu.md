@@ -1,8 +1,7 @@
 ---
 layout:       post
 title:        "České slovo k reformám EU"
-date:         2019-06-24 10:00:00 +0100
-categories:   Piráti, EU
+date:         2019-06-24 06:00:00 +0100
 img:          eu-illust.jpg
 language:     czech
 ---
@@ -19,4 +18,4 @@ Není ale rozumné ubírat se směrem zvyšování pravomocí Evropské rady, kt
 
 Přestože se tedy dá souhlasit s kritikou Evropské komise, při rozmělňování jejího vlivu a přenášení některých jejích pravomocí by měl významnější roli hrát Evropský parlament. Ten je jako jediná instituce přímo volený občany EU, má tedy pro určování evropské politiky ze své podstaty silnější mandát než ostatní orgány. Evropští poslanci jsou navíc narozdíl od členů Evropské rady zcela uvolněni pro evropskou politiku, nemusí svou činnost skloubit s náročnými funkcemi ve vládě některého členského státu.
 
-Posílení Evropského parlamentu může EU více přiblížit jejím občanům, jelikož by se legislativní proces stal o něco podobnější tomu, na který je volič zvyklý z národních parlamentů. Taková změna by měla za následek další, tolik potřebnou demokratizaci Unie. Evropský parlament by třeba měl mít právo navrhovat zákony. Současné nastavení mu to neumožňuje, takže většinu času pouze reaguje na agendu předkládanou Komisí z vůle Evropské rady. Proto je lepší se ubírat cestou širší debaty na půdě Evropského parlamentu, než se snažit EU svázat do područí uzavřené kabaly Evropské rady.
+Posílení Evropského parlamentu může EU více přiblížit jejím občanům, jelikož by se legislativní proces stal o něco podobnější tomu, na který je volič zvyklý z národních parlamentů. Taková změna by měla za následek další, tolik potřebnou demokratizaci Unie. Evropský parlament by třeba měl mít právo navrhovat zákony. Současné nastavení mu to neumožňuje, takže většinu času pouze reaguje na agendu předkládanou Komisí z vůle Evropské rady. Proto je lepší se ubírat cestou širší debaty na půdě Evropského parlamentu, než se snažit EU svázat do područí netransparentní Evropské rady.
