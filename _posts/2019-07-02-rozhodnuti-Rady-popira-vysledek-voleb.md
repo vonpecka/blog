@@ -6,7 +6,7 @@ img:          topjobs-deal.jpg
 language:     czech
 ---
 
-V úterý večer vyhlásil předseda Evropské rady Donald Tusk výsledek uzavřeného jednání premiérů členských států Evropské unie. Rada svým usnesením nominovala kandidátkou na předsedkyni Evropské komise německou konzervativní ministryni Ursulu von der Leyen a spolu s ní tři další kandidáty na vysoké pozice v Evropské unii. Žádné z těchto jmen nebylo zmiňováno před evropskými volbami a diskutováno s voliči během kampaně. Ursula von der Leyen navíc byla jako ministryně obrany velmi neúspěšná a čelí závažným obviněním. Její hlavní kvalifikací pak je, že je dobrou přítelkyní Angely Merkelové. A samozřejmě, velmi se snažila cenzurovat internety.
+V úterý večer vyhlásil předseda Evropské rady Donald Tusk výsledek uzavřeného jednání premiérů členských států Evropské unie. Rada svým usnesením nominovala kandidátkou na předsedkyni Evropské komise německou konzervativní ministryni Ursulu von der Leyen a spolu s ní tři další kandidáty na vysoké pozice v Evropské unii. Žádné z těchto jmen nebylo zmiňováno před evropskými volbami a diskutováno s voliči během kampaně. Ursula von der Leyen navíc byla jako ministryně obrany dosti neúspěšná a čelí závažným obviněním.
 
 <!--more-->
 
