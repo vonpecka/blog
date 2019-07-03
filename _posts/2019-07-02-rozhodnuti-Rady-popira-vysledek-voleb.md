@@ -6,7 +6,7 @@ img:          topjobs-deal.jpg
 language:     czech
 ---
 
-V úterý večer vyhlásil předseda Evropské rady Donald Tusk výsledek uzavřeného jednání premiérů členských států Evropské unie. Rada svým usnesením nominovala kandidátkou na předsedkyni Evropské komise německou konzervativní ministryni Ursulu von der Leyen a spolu s ní tři další kandidáty na vysoké pozice v Evropské unii. Žádné z těchto jmen nebylo zmiňováno před evropskými volbami a diskutováno s voliči během kampaně. Ursula von der Leyen navíc byla jako ministryně obrany dosti neúspěšná a čelí závažným obviněním.
+V úterý večer vyhlásil předseda Evropské rady Donald Tusk výsledek uzavřeného jednání premiérů členských států Evropské unie. Rada svým usnesením nominovala kandidátkou na předsedkyni Evropské komise německou konzervativní ministryni Ursulu von der Leyen a spolu s ní tři další kandidáty na vysoké pozice v Evropské unii. Žádné z těchto jmen nebylo zmiňováno před evropskými volbami a diskutováno s voliči během kampaně. Ursula von der Leyen navíc byla jako ministryně obrany poměrně neúspěšná a čelí závažným obviněním.
 
 <!--more-->
 
@@ -18,4 +18,4 @@ Aroganci moci a vůli tajit rozhodování před voliči nejlépe vystihuje výro
 
 > Důležité je, že Česko a země V4 společně s Itálií zabránily prosazení Spitzenkandidáta. My jsme tento systém od počátku kritizovali a nesouhlasíme s ním.
 
-A čekají nás bouřlivé dny. Celý tento obchod může totiž velice nepěkně ztroskotat. Předseda Evropské komise a následně Komise jako celek musejí být schváleni Evropským parlamentem.  předložit velmi dobrý a uvěřitelný plán pětiletého fungování svojí Komise. Jinak také může Evropskému parlamentu dojít trpělivost a celý proces se může vrátit na začátek.
+A čekají nás bouřlivé dny. Celý tento obchod může totiž velice nepěkně ztroskotat. Předseda Evropské komise a následně Komise jako celek musejí být schváleni Evropským parlamentem. Chce-li von der Leyen získat důvěru Evropského parlamentu, musí předložit velmi dobrý a uvěřitelný plán pětiletého fungování svojí Komise. Jinak také může Evropskému parlamentu dojít trpělivost a celý proces se může vrátit na začátek.
