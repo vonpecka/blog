@@ -1,7 +1,7 @@
 ---
 layout:       post
 title:        "Spitzenkandidáti a jejich význam pro demokracii v EU"
-date:         2019-07-15 10:00:00 +0100
+date:         2019-07-15
 img:          spitzenkandidati-2019.jpg
 language:     czech
 ---
