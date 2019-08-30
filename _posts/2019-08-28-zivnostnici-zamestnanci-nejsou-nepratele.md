@@ -2,15 +2,17 @@
 layout:       post
 title:        "Živnostníci a zaměstnanci nejsou nepřátelé"
 date:         2019-08-28
-img:          zivnost.png
+img:          wrestling-dolary.jpg
 language:     czech
 ---
 
-Hospodářské noviny dnes nasvítily skutečnost, že Piráti jsou nejsilnější stranou mezi živnostníky. Jsem velice vděčný za důvěru, kterou pravidelně dostáváme. Zároveň věřím, že je to výsledek přirozeného postoje Pirátů k ekonomice.
+Hospodářské noviny nasvítily skutečnost, že Piráti jsou nejsilnější stranou mezi živnostníky. Jsem velice vděčný za důvěru, kterou pravidelně dostáváme. Zároveň věřím, že je to výsledek přirozeného postoje Pirátů k ekonomice.
 
 <!--more-->
 
 Od začátku parlamentního působení Pirátů je internet zaplaven urážkami, jací jsme prý novodobí komunisté, že chceme zestátňovat a kdesi cosi. Jako člověk, který drží živnostenské oprávnění od roku 2010, jsem z toho vždy míval legraci. Zhruba polovina poslanců zvolených v roce 2017 na tom byla podobně, takže bychom museli být šílení, kdybychom chtěli ničit vlastní životní styl. Podobně by nám to neodpustili naši voliči, mezi nimiž najdeme obchodníky s pěstitelskými potřebami, programátory na volné noze či třeba provozovatele čajoven.
+
+![graf](/assets/img/articles/zivnost.png)
 
 Zajímavé je, odkud tyto úvahy pocházejí. Řadu let bývalo zvykem prezentovat politiku jako tzv. pravo-levý střet mezi těmi, kdo obhajují práva podnikatelů, a těmi, kdo obhajují práva zaměstnanců. Jenže ekonomika se změnila – více než dříve hraje roli [prekarizace práce](https://cs.wikipedia.org/wiki/Prekarizace). Rozdíl mezi drobnými podnikateli a zaměstnanci se stírá – stále více lidí funguje kdesi na pomezí. Na živnostenské oprávnění vykonávají činnost pro několik odběratelů, přivydělávají si ke svému zaměstnávání, „na volné noze“ si vyhledávají zakázníky na on-line tržištích nebo vedou drobné firmičky, kde jedna nezaplacená faktura či dlouhodobá nemoc dokáže byznys potopit. Kreslit mezi nimi dělící čáru je nesmyslné.
 
