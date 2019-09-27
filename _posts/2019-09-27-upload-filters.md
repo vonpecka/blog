@@ -1,7 +1,7 @@
 ---
 layout:       post
 title:        "Jak si stojíme při vyjednávání o filtrech teroristického obsahu v EU"
-date:         2019-09-29
+date:         2019-09-27
 img:          upload-filters.png
 language:     czech
 ---
