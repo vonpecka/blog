@@ -14,7 +14,7 @@ Hlasování proběhlo ve středu odpoledne, krátce po tom, co Turecko napadlo k
 
 Je třeba si uvědomit standartní proceduru, jak tyto texty vznikají. Za normální situace se sejde AFET (Výbor pro zahraniční věci), kde jsou projednávány návrhy rezolucí. Jednotlivé frakce si vzájemně vyjasňují pozice, hledají kompromisní formulace a snaží se najít text, který by byl přijatelný pro většinu poslanců a prošel.
 
-SPD (a obecně celá frakce ID) se vyjednávání cíleně neúčastní. Místo toho zpravidla navrhuje vlastní texty, které z různých důvodů (útoky na menšiny, demagogie, ...) nebývají přijatelné pro ostatní frakce. Poté, co je takový logicky text odmítnut, přenáší ho na sociální sítě s ublíženeckou kritikou všeho a všech.
+SPD (a obecně celá frakce ID) se vyjednávání cíleně neúčastní. Místo toho zpravidla navrhuje vlastní texty, které z různých důvodů (útoky na menšiny, demagogie, ...) nebývají přijatelné pro ostatní frakce. Poté, co je takový text logicky odmítnut, přenáší ho na sociální sítě s ublíženeckou kritikou všeho a všech.
 
 V Evropském parlamentu je obecně přijímanou zvyklostí nedávat této činnosti pravicových extremistů více prostoru, než je zdrávo. V tom se přístup liší od českého Parlamentu, kde poslanecký klub ANO dává panu Okamurovi pravidelně prostor pro nekonečné proslovy k tématům, která typicky ani nejsou na stole (Istanbulská úmluva, Marakéšská deklarace,...). SPD toho v Česku pravidelně využívá, neboť proslovy přenáší kamery parlamentu (a zhusta i televize), k šíření své propagandy.
 
