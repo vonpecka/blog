@@ -1,7 +1,7 @@
 ---
 layout:       post
 title:        "SPD osočuje EU z podpory turecké invaze do Sýrie"
-date:         2019-09-27
+date:         2019-10-10
 img:          hoax-spd-kurdi.jpg
 language:     czech
 ---
