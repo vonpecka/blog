@@ -5,10 +5,9 @@ date:         2019-10-13
 img:          europarlament.jpg
 language:     czech
 ---
+Pirátští europoslanci nepodpořili na čtvrtečním zasedání europarlamentu návrh usnesení o vnějším ovlivňování voleb a dezinformacích ve vnitrostátních a evropských demokratických procesech. Nebezpečí vnějších vlivů si uvědomujeme, nechceme kvůli němu obětovat naše občanská práva a osobní svobody. Řešením není více cenzury, ale více vzdělání.
 
-Následující text je překladem komentáře mého kolegy Patricka Breyera, který vysvětluje důvody, proč pirátští europoslanci nepodpořili návrh usnesení o vnějším ovlivňování voleb a dezinformacích ve vnitrostátních a evropských demokratických procesech. Přestože si nebezpečí vnějších vlivů uvědomujeme, nechceme kvůli němu obětovat naše občanská práva a osobní svobody.
-
-**Původní článek nalezenete na [blogu Patricka Breyera](https://www.patrick-breyer.de/?p=589663&lang=en).**
+<!--more-->
 
 Pirátská delegace považuje vnější ovlivňování voleb za kritický problém, který se stává čím dál více nebezpečným pro naše demokratické instituce coby základny pro mír a prosperitu. Svobodné a spravedlivé volby jsou základním kamenem Evropské unie. Zejména pluralita médií, občanské vzdělávání, kritické myšlení, ochrana soukromí a svoboda projevu jsou klíčové pro naši obranu před cizími vlivy.
 
