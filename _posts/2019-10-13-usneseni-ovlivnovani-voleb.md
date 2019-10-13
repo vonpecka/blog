@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        "Řešení fake news není cenzura, ale více vzdělání"
+title:        "Řešením fake news není cenzura, ale více vzdělání"
 date:         2019-10-13
 img:          europarlament.jpg
 language:     czech
