@@ -26,7 +26,15 @@ V roce 2017 jsem byl zvolen do republikového předsednictva Pirátů, kam jsem 
 
 Na podzim 2017 jsem po úspěchu Pirátů ve sněmovních volbách byl zvolen poslancem. Vzhledem ke svému zaměření na zahraniční politiku a Evropskou unii jsem se stal členem Zahraničního výboru a Výboru pro evropské záležitosti, kde jsem se stal jeho místopředsedou.
 
-Jako poslanec a pirátský garant pro oblast zahraniční politiky se snažím do politické debaty přinášet analytický a kritický rozbor daných geopolitických situací. Zároveň prosazuji racionální přístup k Evropské unii - je nesmyslné z ní odcházet nebo se ji snažit rozložit, je ale zapotřebí ji reformovat, aby skutečně prospívala potřebám všech Evropanů.
+Jako poslanec a pirátský garant pro oblast zahraniční politiky jsem se vždy snažil do politické debaty přinášet analytický a kritický rozbor daných geopolitických situací. Zároveň dlouhodobě prosazuji racionální přístup k Evropské unii - je nesmyslné z ní odcházet nebo se ji snažit rozložit, je ale zapotřebí ji reformovat, aby skutečně prospívala potřebám všech Evropanů.
+
+#### Evropská výprava
+
+V květnu 2019 jsem byl společně s Marcelem Kolajou a Markétou Gregorovou z České pirátské strany a Patrickem Breyerem z Německé pirátské strany zvolen do Evropského parlamentu. Poprvé v historii se tak podařilo dosáhnout toho, aby Evropskou pirátskou stranu na půdě Evropského parlamentu zastupovali Piráti zvolení z více členských států.
+
+Po pečlivém zvažování všech pro a proti posílili pirátští europoslanci politickou skupinu Zelení/Evropská svobodná aliance. Já sám jsem se pak zapojil do činností Výboru pro průmysl, výzkum a energetiku (ITRE), Výboru pro rozpočtovou kontrolu (CONT) a Hospodářského a měnového výboru (ECON). 
+
+V listopadu 2019 jsem byl zvolen předsedou Evropské pirátské strany. V této pozici budu usilovat o ještě hlubší spolupráci a koordinaci evropských Pirátských stran, aby se pirátské hodnoty svobody, rovnosti, solidarity, demokracie a transparence mohly úspěšně šířit v celé Evropě.
 
 <a href="{{ 'assets/pdf/CV_Peksa.pdf' | relative_url}}">
   <i class="fi-download medium"></i>&nbsp;&nbsp; Curriculum vitae  v češtině
