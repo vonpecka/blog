@@ -19,3 +19,6 @@ Při zavádění plošných šmírovacích technik to ale nejsou jen nepřátel�
 U zavádění každého kamerového systému je třeba dbát na rovnováhu mezi veřejným zájmem na jedné straně a právem na soukromí na straně druhé. V autoritářsky řízených zemích, mezi které Rusko patří, ale není dodržen princip brzd a protivah. Zájmy jednotlivých občanů i občanské společnosti jako celku pak nejsou dostatečně chráněny, protože neexistuje nikdo, kdo by ohlídal hlídače.
 
 Rusko je (stejně jako Čína) negativním příkladem, jak je dnes možné informační a komunikační technologie zneužívat v masovém měřítku k narušování soukromí. Jako Čech a Evropan takový přístup k právu na ochranu soukromí zcela odmítám. Politici, úředníci, policisté a další odpovědné osoby nesmí nástroje určené k ochraně veřejného pořádku zneužívat ve svůj prospěch nebo je přeprodávat za účelem zisku.
+
+
+*Článek vyšel na serveru [Forum24](https://www.forum24.cz/rusky-sledovaci-system-je-ukazkovym-prikladem-zneuzivani-modernich-technologii/).*
