@@ -10,7 +10,7 @@ V pátek 3. ledna byl poblíž Bagdádského mezinárodního letiště zabit dro
 
 <!--more-->
 
-K útoku  došlo na území třetího státu, který při sporech mezi USA a Íránem I v minulosti nedobrovolně plnil roli bojiště. Sulejmání byl zabit při cestě na oficální státní návštěvu, bez řádného soudu a na rozkaz prezidenta státu, který formálně není ve válce ani s Íránem, ani s Irákem. I když lze mít na osobu Sulejmáního s ohledem na jeho působení a roli na Blízkém východě negativní názor, toto narušení mezinárodního práva je nejen morálně pochybné, ale I politicky nerozumné.
+K útoku  došlo na území třetího státu, který při sporech mezi USA a Íránem I v minulosti nedobrovolně plnil roli bojiště. Sulejmání byl zabit při cestě na oficální státní návštěvu, bez řádného soudu a na rozkaz prezidenta státu, který formálně není ve válce ani s Íránem, ani s Irákem. I když lze mít na osobu Sulejmáního s ohledem na jeho působení a roli na Blízkém východě negativní názor, toto narušení mezinárodního práva je nejen morálně pochybné, ale i politicky nerozumné.
 
 Útok byl zdůvodňován obavami o bezpečnost. Pobouřený irácký parlament v reakci na útok vyzval k vykázání cizích vojsk ze země. Tato reakce je pochopitelná, žádný suverénní stát nemůže dovolit ostatním státům, aby si na jeho území bez varování a vyhlášení války takto vyřizovaly účty raketami. Těžko by totiž jeho obyvatelstvo vnímalo tyto vojáky jako spojence a ne jako okupanty. Pokud jednal prezident Trump ve snaze zajistit pro USA bezpečnost a udržet si spojence v regionu tak definitivně ztratil Irák a selhal. 
 
