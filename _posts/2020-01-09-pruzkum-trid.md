@@ -1,12 +1,11 @@
 ---
 layout:       post
 title:        "Babišův systém neporazí spojování opozice, ale jiná nová politika"
-date:         2019-11-19
-img:          babis-lovochemie.jpg
+date:         2020-01-09
+img:          rozdeleni-svobodou.jpg
 language:     czech
 ---
-Při poslední demonstraci na Letné zazněly další výzvy ke spojování opozice s cílem porazit Andreje Babiše. Po přečtení výsledků průzkumu "Rozdělení svobodou", který rozděluje českou populaci na 6 tříd, si nemyslím, že by tato strategie měla naději na úspěch. Opozice musí nabídnout jinou politiku. S blížícím se lednovým Celostátním fórem Pirátů to chci rozebrat podrobněji.
-
+Při poslední demonstraci na Letné zazněly další výzvy ke spojování opozice s cílem porazit Andreje Babiše. Po přečtení výsledků průzkumu "Rozdělení svobodou", který rozděluje českou populaci na 6 tříd, si nemyslím, že by tato strategie měla naději na úspěch. Opozice musí nabídnout jinou politiku.
 
 <!--more-->
 
@@ -43,5 +42,3 @@ Kdo to je? Matky samoživitelky, učitelé, zaměstnanci pošt...řada dalších
 Jak jsme se sem dostali? Svou roli asi hraje boj za vyšší mateřskou, návrhy na změnu exekučního řádu, řešení sociálního bydlení, podpora zvyšování platů učitelů...jsou to věci, které děláme a které mají dopad na život chudších společenských tříd. Máme je v programu. Stále ale většina příslušníků těch chudších tříd na první dobrou neřekne "Piráti jsou ti, kteří na tom dělají". 
 
 Těžko nám tedy pomůže spojit se s TOP 09 či ODS nebo kýmkoli jiným, kdo třeba vzdáleně připomíná vládnutí Petra Nečase a Miroslava Kalouska. Program, který máme, je dobrý a musí být více vidět, že ho prosazujeme. Nikdo jiný z opozice totiž takovou sociálně-liberální alternativu k Babišovu systému nabídnout nedokáže.
-
-*Autor je poslancem Evropského parlamentu, ale nemá žádnou stranickou funkci. Předcházející text tedy není strategií strany, vyjadřuje pouze nezávazně autorův pohled na to, kam by se měla ubírat.*
