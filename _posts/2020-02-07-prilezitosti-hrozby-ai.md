@@ -1,7 +1,7 @@
 ---
 layout:       post
 title:        "Příležitosti a hrozby umělé inteligence"
-date:         2020-02-02
+date:         2020-02-07
 img:          ai.jpg
 language:     czech
 ---
@@ -19,3 +19,9 @@ Možnosti pozitivní aplikace umělé inteligence ale nabízí mnohem lepší ce
 Velmi významné je také využití umělé inteligence ve zdravotnictví a při řešení výzev spojených s klimatickými změnami. Při poskytování zdravotní péče mohou neuronové sítě pomáhat nejen s diagnózou a sledováním stavu pacientů, ale také s prováděním lékařských zákroků včetně náročných chirurgických operací. Umělá inteligence rovněž může usnadňovat život handicapovaným (například prostřednictvím chytré aplikace, která zrakově postiženým lidem popisuje jejich okolí, předčítá texty a dalšími způsoby jim tak nahrazuje zrak). Přínos umělé inteligence oceníme také u modelů dlouhodobého vývoje klimatu, které nám poskytnou nejen daleko přesnější předpovědi počasí, ale hlavně nám umožní mnohem lépe předvídat hrozící přírodní katastrofy, jako jsou požáry, zemětřesení, hurikány nebo záplavy.
 
 Je jasné, že důkladné regulaci umělé inteligence na evropské úrovni se při jejím dalším rozvoji nevyhneme. Koneckonců je potřeba zabránit rozšiřování negativních trendů v jejím vývoji, zároveň je nutné stanovit jasná pravidla i pro její pozitivní využití. Předsedkyně Komise von der Leyen v tomto směru přislíbila legislativu zaměřenou na oblast umělé inteligence s podobně tematickým zacílením jako nařízení o ochraně osobních údajů (GDPR). Takový legislativní krok je nezbytný k tomu, abychom jako Evropa byli schopni prosadit evropská opatření jako nový celosvětový standard pro výzkum a vývoj takové umělé inteligence, která nebude zneužívána k porušování lidských práv, ale naopak bude přispívat ke zlepšování životní úrovně a řešení podstatných problémů, se kterými se jako lidstvo potýkáme.
+
+[Uniklá verze textu](https://www.euractiv.com/wp-content/uploads/sites/2/2020/01/AI-white-paper-EURACTIV.pdf), který Komise připravuje, bohužel vyvolává jisté pochybnosti. Požadavek na dodržování Listiny základních práv totiž nesměřuje na soukromý sektor, kde se otevírá prostor pro případná selhání. Je také otázka, zda-li chápat AI čistě jako "produkt" - v řadě situacích na její využití spotřebitel narazí spíše jako na "službu". Měl by být chráněn i v těchto případech.
+
+Chybí mi jasnější přístup ve věci kybernetické bezpečnosti. S rozvojem IoT budeme na AI narážet na mnoha dalších místech a prostor, kde se mohou objevit nové zranitelnosti, tím nepříjemně roste. U tohoto typu software lze zároveň očekávat vysoké tempo aktualizací, které budou prověřování komplikovat. Samotný software má při tom mnohdy charakter "černé skříňky", u které je obtížné vysvětlit, co dělá a proč to dělá.
+
+Doufám, že Komise ještě před formálním zveřejněním text vylepší. Společně se vznikající Evropskou strategií pro data bude nejspíš základním pilířem pro rozvoj hospodářství ve 21. století a určí vnímání lidských práv v digitálním věku.
