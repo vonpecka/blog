@@ -18,7 +18,7 @@ Vyjádření vůle lze teoreticky provést následovně. Píšu teoreticky, prot
 
 Měly by existovat tři následující možnosti:
 
-1. Prostřednictvím [webové aplikace pro pacienty](https://pacient.erecept.sukl.cz/suklerp/Account/Login?ReturnUrl=%2fsuklerp%2fPacient%2f). Pro přístup do webové aplikace je třeba vlastnit nový elektronický občanský průkaz (průkaz s čipem) nebo si zřídit [klíč k elektronickým službám](www.eidentita.cz), přičemž v takovém případě je nezbytné ověření identity na některém z kontaktních míst veřejné správy (CzechPOINT).
+1. Prostřednictvím [webové aplikace pro pacienty](https://pacient.erecept.sukl.cz/suklerp/Account/Login?ReturnUrl=%2fsuklerp%2fPacient%2f). Pro přístup do webové aplikace je třeba vlastnit nový elektronický občanský průkaz (průkaz s čipem) nebo si zřídit [klíč k elektronickým službám](https://www.eidentita.cz), přičemž v takovém případě je nezbytné ověření identity na některém z kontaktních míst veřejné správy (CzechPOINT).
 
 2. Zasláním [listinného podání](https://www.epreskripce.cz/aktuality/vyjadreni-souhlasu-nesouhlasu-s-nahlizenim-zdravotnickych-pracovniku-do-lekoveho-zaznamu) na adresu sídla SÚKL. Je nutné jej opatřit úředně ověřeným podpisem (je možné využít CzechPOINT nebo notáře či obecní úřad) a zaslat na adresu **Státní ústav pro kontrolu léčiv, Oddělení eRecept, Šrobárova 48, 100 41 Praha 10**.
 
