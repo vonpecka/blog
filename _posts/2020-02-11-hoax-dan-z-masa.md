@@ -17,3 +17,7 @@ V článku [Parlamentních listů](https://www.parlamentnilisty.cz/arena/monitor
 Málo se to zmiňuje, ale pro změnu evropských zákonů je třeba souhlasu Evropského parlamentu a Rady Evropské unie. V Radě jsou reprezentovány vlády členských států. Na změnu daňových zákonů je navíc zapotřebí jednomyslného souhlasu Rady, tj. všech vlád států Unie. Z 27 států EU působí Zelení pouze ve 4 vládách (Švédsko, Finsko, Lucembursko a Rakousko), což má k zajištění jednomyslného souhlasu 27 zemí skutečně velmi daleko.
 
 Rád bych dodal, že já, podobně jako řada dalších Pirátů, maso běžně jíme. Jsme si vědomi, že to s sebou nese značnou ekologickou zátěž. Nejsme spokojeni s podmínkami, které panují v současných průmyslových velkochovech zvířat. Mnoho z nás se snaží svou vlastní spotřebu masa cíleně omezovat. Vždy jsme ale respektovali a budeme respektovat svobodu volby. Rozhodnutí přestat jíst maso musí být dobrovolné s ohledem na vlastní svědomí.
+
+### Dodatek
+
+Článek Parlamentních listů vychází z titulku [zprávy](https://www.euractiv.com/section/agriculture-food/news/greens-socialists-back-meat-tax-to-cover-environmental-costs-of-livestock/) serveru Euractiv. Když se hoax začal šířit, vydal Euractiv [vysvětlení](https://euractiv.cz/section/evropske-finance/news/zdrazovani-masa-eu-nechysta-redakce-euractiv-reaguje-na-zavadejici-zpravu-parlamentnich-listu/). Obsahově rozšiřuje výše uvedené.
