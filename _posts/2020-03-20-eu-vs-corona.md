@@ -6,7 +6,7 @@ img:          corona.jpg
 language:     czech
 ---
 
-Přestože společný postup proti šíření viru nespadá do přímých pravomací EU a jejích institucí, snaží se Unie v době epidemie členským státům co nejvíce pomoci. A navzdory tomu, že má pro řešení krize způsobené šířením koronaviru jen velmi úzký prostor, jsou její kroky velmi rychlé a užitečné.
+Přestože společný postup proti šíření viru nespadá do přímých pravomací EU a jejích institucí, snaží se Unie v době epidemie členským státům co nejvíce pomoci. A navzdory tomu, že má pro řešení krize způsobené šířením koronaviru jen velmi úzký prostor, jsou její kroky užitečné.
 
 <!--more-->
 
